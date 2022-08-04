@@ -1,16 +1,21 @@
-### Hi there 👋
+# About Me
 
-<!--
-**ParsaTDR/ParsaTDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm [Parsa Tadbiri](https://github.com/ParsaTDR?tab=overview&from=2022-04-01&to=2022-04-30)
+- a beginner backend developer 👨‍💻
+- longing for learning new Technologies 💻
+- trying to make a great improvement ✅
 
-Here are some ideas to get you started:
+# My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Node JS
+- Javascript
+
+# Currently learning
+
+- Mongo DB
+- Express.js
+
+# Fun
+Spider is the only web developer who enjoys having bugs =D
