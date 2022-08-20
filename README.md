@@ -11,6 +11,7 @@
 - CSS
 - Node JS
 - Javascript
+- MongoDB
 
 # Currently learning
 
