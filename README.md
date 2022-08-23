@@ -15,7 +15,6 @@
 
 # Currently learning
 
-- Mongo DB
 - Express.js
 
 # Fun
